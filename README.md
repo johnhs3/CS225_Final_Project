@@ -1,13 +1,10 @@
 # Airport Assistant - CS 225 Final Project
 
 ## Contributors
-* Philip Chmielowiec - philipc2
-* Matheu Fletcher - matheuf2
-* John Smith - johnhs3
-* Anushya Iyer - anushya2
+(REMOVED FOR PRIVACY)
 
 ## Final Presentation Video Link
-https://youtu.be/FGc9D43JYYk
+(REMOVED FOR PRIVACY)
 
 ## Overview
 
@@ -69,6 +66,3 @@ A list of some of the included tests is provided below. For a full list of tests
 
 
 
-
-
-# matheuf2-anushya2-philipc2-johnhs3
